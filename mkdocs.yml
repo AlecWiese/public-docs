@@ -1,8 +1,10 @@
-site_name: obsidian-mkdocs template
+site_name: Alec's Shared Docs
+extra_css:
+  - stylesheets/extra.css
 
 theme:
     name: 'material'
-    palette:
+    palette: custom
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
