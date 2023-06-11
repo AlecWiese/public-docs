@@ -1,10 +1,8 @@
 site_name: Alec's Shared Docs
-extra_css:
-  - stylesheets/extra.css
 
 theme:
     name: 'material'
-    palette: custom
+    palette: 
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
