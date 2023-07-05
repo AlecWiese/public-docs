@@ -2,7 +2,7 @@
 
 When configuring an App in in TrueNas Scale, I sometimes need to expose additional ports for subservices in the container. i.e. exposing a port for homekit in the [Scrypted](https://www.scrypted.app/) [Chart](https://artifacthub.io/packages/helm/truecharts/scrypted) 
 
-First You'll need to configure an External Interface, you can follow this [KB](obsidian://open?vault=Knowledge%20Base&file=Documentation%2FExpose%20External%20Interfaces%20to%20TrueCharts%20Apps) on how.
+First You'll need to configure an External Interface, you can follow this [KB](obsidian://open?vault=Knowledge%20Base&file=public-docs%2Fdocs%2FTrueNas%2FExpose%20External%20Interfaces%20to%20TrueCharts%20Apps) on how.
 
 1. With your IP configured, Navigate to **Add Manual Custom Services** click **Add**
 	Name: `<servicename>`
